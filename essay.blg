@@ -3,64 +3,51 @@ Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: essay.aux
 The style file: agsm.bst
 Database file #1: biblio.bib
-Warning--entry type for "Barrett" isn't style-file defined
---line 40 of file biblio.bib
-Warning--entry type for "ITBBerlin" isn't style-file defined
---line 115 of file biblio.bib
-Warning--entry type for "Eurocontrol2017" isn't style-file defined
---line 123 of file biblio.bib
-Warning--entry type for "Eurocontrol2018" isn't style-file defined
+Warning--entry type for "holland2018" isn't style-file defined
 --line 131 of file biblio.bib
-Warning--entry type for "Ryanair" isn't style-file defined
---line 140 of file biblio.bib
-Warning--entry type for "Campaign" isn't style-file defined
---line 148 of file biblio.bib
-Warning--entry type for "Christensen2015" isn't style-file defined
---line 156 of file biblio.bib
-"{" immediately follows a field name---line 196 of file biblio.bib
- : @article
- :         {article,
-I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for "Droege"
-You've used 14 entries,
+Warning--entry type for "europea2018" isn't style-file defined
+--line 252 of file biblio.bib
+Warning--entry type for "Global2018" isn't style-file defined
+--line 260 of file biblio.bib
+You've used 6 entries,
             2909 wiz_defined-function locations,
-            737 strings with 6843 characters,
-and the built_in function-call counts, 35755 in all, are:
-= -- 5655
-> -- 428
+            676 strings with 5937 characters,
+and the built_in function-call counts, 24011 in all, are:
+= -- 4024
+> -- 230
 < -- 0
-+ -- 2555
-- -- 126
-* -- 2866
-:= -- 7606
-add.period$ -- 20
-call.type$ -- 14
-change.case$ -- 195
-chr.to.int$ -- 14
-cite$ -- 14
-duplicate$ -- 188
-empty$ -- 405
-format.name$ -- 170
-if$ -- 6339
++ -- 1902
+- -- 70
+* -- 2078
+:= -- 4709
+add.period$ -- 9
+call.type$ -- 6
+change.case$ -- 70
+chr.to.int$ -- 6
+cite$ -- 6
+duplicate$ -- 85
+empty$ -- 169
+format.name$ -- 80
+if$ -- 4357
 int.to.chr$ -- 5
 int.to.str$ -- 0
-missing$ -- 9
-newline$ -- 57
-num.names$ -- 140
-pop$ -- 91
+missing$ -- 5
+newline$ -- 27
+num.names$ -- 42
+pop$ -- 40
 preamble$ -- 1
-purify$ -- 210
+purify$ -- 80
 quote$ -- 0
-skip$ -- 152
+skip$ -- 65
 stack$ -- 0
-substring$ -- 7741
-swap$ -- 23
-text.length$ -- 196
+substring$ -- 5661
+swap$ -- 20
+text.length$ -- 64
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 52
+type$ -- 20
 warning$ -- 0
-while$ -- 298
+while$ -- 94
 width$ -- 0
-write$ -- 185
-(There was 1 error message)
+write$ -- 86
+(There were 3 warnings)
